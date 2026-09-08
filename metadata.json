@@ -1,0 +1,6 @@
+{
+  "name": "Ball Blast",
+  "description": "Numbered brick multi-ball shooter game where you aim a stream of balls to break falling bricks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
